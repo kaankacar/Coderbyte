@@ -9,6 +9,8 @@ Output: ``1,4,13``
 Input: ``["1, 3, 9, 10, 17, 18", "1, 4, 9, 10"]``
 Output: ``1,9,10``
 
+####Answer:
+
 ```
 function FindIntersection(strArr) {
   result = [];
